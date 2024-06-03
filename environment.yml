@@ -1,0 +1,16 @@
+name: pulsemod
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - numpy
+  - pillow
+  - pip
+  - python
+  - pytorch
+  - pytorch-cuda=12.1
+  - scipy
+  - setuptools
+  - torchvision
+  - dlib
